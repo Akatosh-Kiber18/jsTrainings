@@ -14,7 +14,7 @@ class Rectangle {
 
 rect = new Rectangle(5,15)
 
-console.log(rect.calcArea(), "m2")
+console.log(rect.calcArea())
 
 /*
 function tribonacci(signature, n) {
